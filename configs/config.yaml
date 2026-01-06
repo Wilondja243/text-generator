@@ -1,0 +1,14 @@
+data:
+  path: "data/data.csv"
+  text_column: "question"
+
+training:
+  epoch_loss: 0
+  epoch: 10
+  learning_rate: 0.001
+
+model:
+  embedding_dim: 768
+  hidden_dim: 256
+  num_layers: 2
+  

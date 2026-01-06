@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
+=======
+models/
+>>>>>>> 7925844 (Add readme file)
 
 # C extensions
 *.so
