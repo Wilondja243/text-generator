@@ -26,6 +26,10 @@ The goal of this project is to **deeply understand how text generation models wo
 git clone https://github.com/your-username/text-generator.git
 cd text-generator
 
+```
+
+cd text-geneartor
+
 2. Create a virtual environment:
 
 ```
@@ -40,6 +44,7 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 
+```
 
 ## Usage
 
@@ -47,6 +52,7 @@ Interactive prediction:
 
 ```
 python run.py
+
 ```
 
 ## Configuration
@@ -60,7 +66,7 @@ All hyperparameters are stored in configs/config.yaml:
 - Others: pad_idx, vocab_size, etc.
 
 
-Contributing
+## Contributing
 
 This is an educational project, feel free to experiment with:
 
