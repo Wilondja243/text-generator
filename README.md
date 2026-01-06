@@ -28,8 +28,6 @@ cd text-generator
 
 ```
 
-cd text-geneartor
-
 2. Create a virtual environment:
 
 ```
@@ -84,3 +82,8 @@ This project is released under the MIT License.
 ---
 
 Si tu veux, je peux aussi te faire **une version plus courte et “GitHub-ready”**, qui tient **en une page et reste attractive** pour quelqu’un qui découvre ton repo.  
+
+## Limitations
+
+- The model is trained on a small dataset, so predictions may not be accurate in all cases.
+- Performance can be improved by adding more question-answer pairs to the `data.csv` file.
