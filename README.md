@@ -78,6 +78,3 @@ This project is released under the MIT License.
 ---
 
 Si tu veux, je peux aussi te faire **une version plus courte et “GitHub-ready”**, qui tient **en une page et reste attractive** pour quelqu’un qui découvre ton repo.  
-
-Veux‑tu que je fasse ça ?
->>>>>>> 7925844 (Add readme file)
